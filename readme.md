@@ -1,1 +1,1 @@
-hello this is my new file in local repository kind take a look on this.
+hello this is new repository.
