@@ -1,1 +1,2 @@
-hello, this is the readme md file and this is important to make contact for leading effect. i have made some changes in this fiel.
+hello this is new repository.
+Have some idea about the things.
